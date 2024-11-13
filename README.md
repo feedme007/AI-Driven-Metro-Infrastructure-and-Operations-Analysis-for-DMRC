@@ -52,25 +52,25 @@ Once the installation is complete, you can start exploring the data and running 
 
 Run the notebook:
 
-[magenta_line_gtfs_generation.ipynb](/code/1.magenta_line_gtfs_generation.ipynb)
+[magenta_line_gtfs_generation.ipynb](/code/1.%20magenta_line_gtfs_generation.ipynb)
 
 ### Generate Synthetic OD Data:
 
 Run the notebook:
 
-[magenta_line_od_synthetic_generation.ipynb](/code/2.magenta_line_od_synthetic_generation.ipynb)
+[magenta_line_od_synthetic_generation.ipynb](/code/2.%20magenta_line_od_synthetic_generation.ipynb)
 
 ### Run Simulations:
 
 Execute the notebook:
 
-[transit_sim_magenta_line.ipynb](/code/3.transit_sim_magenta_line.ipynb)
+[transit_sim_magenta_line.ipynb](/code/3.%20transit_sim_magenta_line.ipynb)
 
 ### Visualize Results:
 
 Use the notebook:
 
-[transit_viz_magenta_line.ipynb](/code/4.transit_viz_magenta_line.ipynb)
+[transit_viz_magenta_line.ipynb](/code/4.%20transit_viz_magenta_line.ipynb)
 
 
 

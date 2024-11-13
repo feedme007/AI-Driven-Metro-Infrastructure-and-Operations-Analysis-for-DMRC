@@ -1,0 +1,8 @@
+trip_id,status,location,cx,cy,ux,uy
+15393,stop,upward-Chirag Delhi,77.229385,28.541229,0.0,0.0
+15394,on_link,upward-Kalkaji Mandir-upward-Nehru Enclave,77.2572632,28.548796799999998,-0.007628999999994335,-0.0036759999999986803
+15395,on_link,upward-Sukhdev Vihar-upward-Okhla NSIC,77.2730668,28.5588246,-0.010245999999995092,-0.005311999999999983
+15396,on_link,upward-Okhla Vihar-upward-Jamia Millia Islamia,77.2907746,28.5615928,-0.005707000000001017,0.001689000000002494
+15397,stop,upward-Jasola Vihar Shaheen Bagh,77.296715,28.546005,0.0,0.0
+15398,on_link,upward-Okhla Bird Sanctuary-upward-Kalindi Kunj,77.3192858,28.5508198,-0.011390999999989049,-0.009980999999999796
+15399,stop,upward-Botanical Garden,77.334656,28.564198,0.0,0.0

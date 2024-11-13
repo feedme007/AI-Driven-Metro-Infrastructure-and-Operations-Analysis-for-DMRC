@@ -1,0 +1,6 @@
+trip_id,status,location,cx,cy,ux,uy
+15354,stop,upward-Panchsheel Park,77.220512,28.542339,0.0,0.0
+15355,stop,upward-Nehru Enclave,77.25116,28.545856,0.0,0.0
+15356,stop,upward-Sukhdev Vihar,77.275116,28.559887,0.0,0.0
+15357,on_link,upward-Jasola Vihar Shaheen Bagh-upward-Okhla Vihar,77.2957552,28.549055,-0.004799000000005549,0.01524999999999821
+15358,on_link,upward-Okhla Bird Sanctuary-upward-Kalindi Kunj,77.3192858,28.5508198,-0.011390999999989049,-0.009980999999999796

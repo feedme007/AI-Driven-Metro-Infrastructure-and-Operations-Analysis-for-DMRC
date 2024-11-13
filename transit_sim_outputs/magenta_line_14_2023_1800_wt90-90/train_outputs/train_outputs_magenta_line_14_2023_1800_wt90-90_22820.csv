@@ -1,0 +1,5 @@
+trip_id,status,location,cx,cy,ux,uy
+15351,on_link,upward-Sukhdev Vihar-upward-Okhla NSIC,77.2730668,28.5588246,-0.010245999999995092,-0.005311999999999983
+15352,on_link,upward-Jasola Vihar Shaheen Bagh-upward-Okhla Vihar,77.2957552,28.549055,-0.004799000000005549,0.01524999999999821
+15353,stop,upward-Kalindi Kunj,77.310173,28.542835,0.0,0.0
+15354,stop,upward-Botanical Garden,77.334656,28.564198,0.0,0.0

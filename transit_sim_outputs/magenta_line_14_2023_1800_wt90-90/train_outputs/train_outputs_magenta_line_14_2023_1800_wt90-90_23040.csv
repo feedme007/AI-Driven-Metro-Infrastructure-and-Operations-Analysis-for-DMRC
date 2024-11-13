@@ -1,0 +1,5 @@
+trip_id,status,location,cx,cy,ux,uy
+15351,on_link,upward-Okhla NSIC-upward-Kalkaji Mandir,77.2636538,28.5535664,-0.006081000000008885,-0.005043000000000575
+15352,on_link,upward-Jamia Millia Islamia-upward-Sukhdev Vihar,77.2839904,28.5623326,-0.011093000000002462,-0.0030570000000018638
+15353,stop,upward-Jasola Vihar Shaheen Bagh,77.296715,28.546005,0.0,0.0
+15354,on_link,upward-Botanical Garden-upward-Okhla Bird Sanctuary,77.33203759999999,28.5619216,-0.013092000000000326,-0.011382000000001113

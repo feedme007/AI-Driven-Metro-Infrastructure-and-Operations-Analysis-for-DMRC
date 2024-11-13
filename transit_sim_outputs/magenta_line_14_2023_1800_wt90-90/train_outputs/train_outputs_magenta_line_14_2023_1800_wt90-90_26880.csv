@@ -1,0 +1,7 @@
+trip_id,status,location,cx,cy,ux,uy
+15359,on_link,upward-Panchsheel Park-upward-Hauz Khas,77.2177442,28.5425404,-0.013839000000004376,0.0010070000000013124
+15360,on_link,upward-Nehru Enclave-upward-Greater Kailash,77.24857659999999,28.545052000000002,-0.012917000000001622,-0.004020000000000579
+15361,on_link,upward-Sukhdev Vihar-upward-Okhla NSIC,77.2730668,28.5588246,-0.010245999999995092,-0.005311999999999983
+15362,stop,upward-Okhla Vihar,77.291916,28.561255,0.0,0.0
+15363,stop,upward-Kalindi Kunj,77.310173,28.542835,0.0,0.0
+15364,stop,upward-Botanical Garden,77.334656,28.564198,0.0,0.0
